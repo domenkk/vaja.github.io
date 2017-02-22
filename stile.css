@@ -1,0 +1,29 @@
+body{
+  background-color: lightblue;
+  background-image: url("slika.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 150px;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-family: Arial;
+}
+
+p{
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+
+  border-color: black;
+  border-width: 2;
+  margin-left: 200px;
+}
